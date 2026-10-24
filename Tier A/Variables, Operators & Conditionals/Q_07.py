@@ -14,5 +14,6 @@ def calculate_percentage_change(privious_value,new_value):
     except ZeroDivisionError:
         return None
 
+
 print(calculate_percentage_change(100,150))
 print(calculate_percentage_change(0,150))
