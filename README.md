@@ -23,6 +23,7 @@ Python/
 │       ├── Q_03.py
 │       ├── Q_04.py
 │       └── Q_05.py
+│       └── Q_06.py
 └── .gitignore
 ```
 
